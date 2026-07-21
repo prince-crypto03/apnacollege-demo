@@ -1,0 +1,19 @@
+********************************************
+  STUDENT RECORD MANAGEMENT SYSTEM
+********************************************
+
+Enter Enrollment Number : 26TDCSJXN
+Enter Student Name : PRINCE VEKARIYA
+Enter Branch : CSE
+Enter Semester : 1
+Enter Mobile Number : 7016275656
+
+------------------------------------------
+Student Information
+------------------------------------------
+Enrollment Number : 26TDCSJXN
+Student Name : PRINCE VEKARIYA
+Branch : CSE
+Semester : 1
+Mobile Number : 7016275656
+------------------------------------------
