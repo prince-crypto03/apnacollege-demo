@@ -1,0 +1,82 @@
+/* Poori body ka font aur margin set karna */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header ko side-by-side aur stylish banana */
+header {
+    height: 75px;
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#banner {
+    text-align: center; /* Ye #banner section ke andar ki har cheez ko center mein la dega */
+}
+
+#banner img {
+    display: block;
+    margin: 0 auto; /* Image ko bich mein laane ka sahi tarika */
+}
+
+.welcome-text {
+    color: #b8860b;
+    padding: 20px 0;
+}/* Banner section ko bada aur center mein karna */
+
+
+
+/* Products table ko achha look dena */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+/* Footer ko niche fix karna */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+}
+.section-title {
+    text-align: center;
+    color: #b8860b; /* Yellow/Golden color */
+    margin-top: 30px;
+}
+.about-text {
+    text-align: center;      /* Text ko center mein lane ke liye */
+    color: #b8860b;          /* Golden/Yellow color */
+    font-size: 20px;         /* Slogan ko thoda bada aur attractive banane ke liye */
+    font-style: italic;      /* Slogan type look ke liye italic */
+    margin: 20px auto;       /* Upar-neeche space aur bich mein lane ke liye */
+    max-width: 700px;        /* Slogan ko ek block mein rakhne ke liye */
+    font-weight: bold;       /* Slogan ko highlight karne ke liye */
+}
