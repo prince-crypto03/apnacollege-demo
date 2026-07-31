@@ -1,0 +1,19 @@
+********************************************
+  STUDENT RECORD MANAGEMENT SYSTEM
+********************************************
+
+Enter Enrollment Number : cd 'c:\Users\Admin\gitdemo\apnacollege-demo\CPF50Practice1\output'
+Enter Student Name : & .\'cpf4.1.exe'
+Enter Branch : cse
+Enter Semester : 1
+Enter Mobile Number : 7016275656
+
+------------------------------------------
+Student Information
+------------------------------------------
+Enrollment Number : cd 'c:\Users\Admin\gitdemo\apnacollege-demo\CPF50Practice1\output'
+Student Name : & .\'cpf4.1.exe'
+Branch : cse
+Semester : 1
+Mobile Number : 7016275656
+------------------------------------------

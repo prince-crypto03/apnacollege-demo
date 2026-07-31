@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int x = 20;
+    int x = 2;
 
     cout << "Start: x = " << x << endl;
 
